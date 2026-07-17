@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef039_000-jc.yaml, hash: 'sha256:043ff47201e24183ecdf9466bb4240ed34767f85b0bb0eccea0ef4879c9fd2ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef039_000-jc.markers.yaml, hash: 'sha256:da9e7b2ccd860858938f73f689d56a4897d0b66cf9eb7b824c1a7db52b984e8e'}
+  - {seq: 0, role: markers, filename: assets/KR3ef039_000-jc.markers.yaml, hash: 'sha256:6ab9da235c6a863ca252870d7c53d443b3273e48a0350b7add327c5cfd66bca7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1971,4 +1971,4 @@ table_of_contents:
   label: 燒裩散
   type: section
   level: 2
-hash: sha256:c7e9543d5f9c0327d706c486252cd8b2ff9afdf402d22fdc986a7cbb61d422be
+hash: sha256:e765fc94d834678d97423c6f63975095dc59bfb2ba8ed64f6b4d0ac4a9285142

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef039_000.yaml, hash: 'sha256:02aa8f54051cd68011b5356fb2c70585b5bb5db34ad939d46ea90eb67acdf2bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef039_000.markers.yaml, hash: 'sha256:4410e5f62e6eed059fd8fbcf6dbeade6a14d443ec0a30780cbb5efbca0b5e51a'}
+  - {seq: 0, role: markers, filename: assets/KR3ef039_000.markers.yaml, hash: 'sha256:d6921ff629635049476e9041eafa0c7f6acfcc0df1be45b07d957e44f992fc13'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1971,7 +1971,7 @@ table_of_contents:
   label: 燒裩散
   type: section
   level: 2
-hash: sha256:dbba34988a45ff1ab82ff6a180b982cd2bc9d5baac142ae431d4ff885d307b38
+hash: sha256:a621bff239a8cd72bf8027d0adb7cb6c65bf18d6db91ec164d8b76c1f5ea2793
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
